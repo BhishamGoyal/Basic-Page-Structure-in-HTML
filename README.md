@@ -12,9 +12,9 @@ Use HTML to bold, italicize, and underline different parts of a single paragraph
 Create a webpage with all six levels of headings (h1 to h6) and observe the differences in size.
 
 5. Lists
-
 Create an ordered list of three favorite movies.
 Create an unordered list of three favorite books.
+
 6. Links
 Add a link to your favorite website, with the text "Click here to visit my favorite website".
 
@@ -29,11 +29,10 @@ Create a table with 3 columns and 4 rows, including headers for each column.
 
 10. Forms
 Create a form with:
-
 An input field for a name.
 An input field for an email.
 An input field for a password.
-A submit button.
-And many more.....
+A submit button.And many more.....
+
 
 
